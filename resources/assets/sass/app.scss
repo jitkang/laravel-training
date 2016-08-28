@@ -7,3 +7,11 @@
 
 // Bootstrap
 @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+.no-result:only-child {
+  display:block;
+}
+
+.no-result {
+  display:none;
+}

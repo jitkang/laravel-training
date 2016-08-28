@@ -5766,4 +5766,10 @@ button.close {
   .hidden-print {
     display: none !important; } }
 
+.no-result:only-child {
+  display: block; }
+
+.no-result {
+  display: none; }
+
 /*# sourceMappingURL=app.css.map */
